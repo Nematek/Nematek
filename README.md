@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nematek
-- 👀 I’m interested in modern c++ and Unreal Engine development
+- 👀 I’m interested in game development using Unreal Engine
 - 🌱 I’m currently learning modern C++ and Unreal Engine
 - 💞️ I’m looking to collaborate on both C++ and Unreal Engine
 - 📫 How to reach me nematekGSD@yahoo.com
